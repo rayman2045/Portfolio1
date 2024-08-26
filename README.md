@@ -11,20 +11,23 @@ centers, user events, inventory items, order details, products, and user profile
 Approach:
 
 A. Database Creation:
-○ Install the MYSQL and MYSQL workbench on your system
-○ Creating a new MYSQL database and loading the CSVs in to the database
+
+-Install the MYSQL and MYSQL workbench on your system
+-Creating a new MYSQL database and loading the CSVs in to the database
 
 B. Prompt Engineering Strategies:
-○ Acting as a Role
-○ Language Translation
-○ Travelling Guide
-○ Combining LLMs and Prompts in multi-step workflows
+
+-Acting as a Role
+-Language Translation
+-Travelling Guide
+-Combining LLMs and Prompts in multi-step workflows
 
 C. Langchain Integration:
-○ Creating SQL agent that transform natural language queries into SQL
+-Creating SQL agent that transform natural language queries into SQL
 queries
-○ Creating Python script agent that creates visualizations from SQL query
+-Creating Python script agent that creates visualizations from SQL query
 outputs
+
 D. Streamlit Chatbot Creation
 
 E. Integrating Memory and Guardrails
