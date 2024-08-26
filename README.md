@@ -30,8 +30,11 @@ E. Integrating Memory and Guardrails
 
 Project Achievement
 1. Create Langchain agents for SQL query generation from natural language
+
 2. Create Langchain agents for Python code generation from natural language
-3.Gain insight into memory and guardrails, essential concepts in managing and
+
+3. Gain insight into memory and guardrails, essential concepts in managing and
 optimizing the performance of LLMs
+
 4. Development of a Streamlit chatbot interface for intuitive data interaction and
 visualization
