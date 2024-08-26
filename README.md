@@ -8,22 +8,25 @@ The e-commerce dataset consists of 7 interconnected datasets covering distributi
 centers, user events, inventory items, order details, products, and user profiles.
 
 Approach
-● Database Creation:
+
+A. Database Creation:
 ○ Install the MYSQL and MYSQL workbench on your system
-○ Creating a new MYSQL database and loading the CSVs in to the
-database
-● Prompt Engineering Strategies:
+○ Creating a new MYSQL database and loading the CSVs in to the database
+
+B. Prompt Engineering Strategies:
 ○ Acting as a Role
 ○ Language Translation
 ○ Travelling Guide
 ○ Combining LLMs and Prompts in multi-step workflows
-● Langchain Integration:
+
+C. Langchain Integration:
 ○ Creating SQL agent that transform natural language queries into SQL
 queries
 ○ Creating Python script agent that creates visualizations from SQL query
 outputs
-● Streamlit Chatbot Creation
-● Integrating Memory and Guardrails
+D. Streamlit Chatbot Creation
+
+E. Integrating Memory and Guardrails
 
 Project Achievement
 1. Create Langchain agents for SQL query generation from natural language
